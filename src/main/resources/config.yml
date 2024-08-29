@@ -1,0 +1,13 @@
+# TelegramNotice by l1ratch
+# More detailed: https://github.com/l1ratch/TelegramNotice
+
+# Для отключения оповещения оставьте его строку пустой!
+
+botToken: "Telegram_BotToken"
+chatId: "Telegram_ChatID"
+serverId: "(ServerName)"
+
+serverEnable: "The Minecraft server has turned on! %serverId%"
+serverDisable: "The Minecraft server is shutting down... %serverId%"
+playerJoin: "Player %player% has joined the game on %serverId%."
+playerQuit: "Player %player% has left the game from %serverId%."

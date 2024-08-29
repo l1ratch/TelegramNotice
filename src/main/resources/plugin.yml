@@ -1,0 +1,4 @@
+name: TelegramNotice
+version: '${project.version}'
+main: ru.l1ratch.telegramnotice.TelegramNotice
+api-version: '1.13'
