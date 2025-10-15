@@ -6,7 +6,7 @@
 
   <groupId>ru.l1ratch</groupId>
   <artifactId>TelegramNotice</artifactId>
-  <version>2.0-b2</version>
+  <version>2.0</version>
   <packaging>jar</packaging>
 
   <name>TelegramNotice</name>
