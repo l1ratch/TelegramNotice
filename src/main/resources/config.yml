@@ -3,11 +3,43 @@
 
 # Для отключения оповещения оставьте его строку пустой!
 
+# === TELEGRAM НАСТРОЙКИ ===
+# Токен бота от @BotFather (оставьте заглушку для отключения)
 botToken: "Telegram_BotToken"
+
+# ID чата (можно получить через @userinfobot)
 chatId: "Telegram_ChatID"
+
+# === VK НАСТРОЙКИ ===
+# Access Token от VK API для группы
+# Инструкция по получению:
+# 1. Создайте приложение на https://vk.com/apps?act=manage
+# 2. Получите токен с правами: messages, manage
+# 3. Токен должен начинаться с vk1.a.
+vkAccessToken: "VK_Access_Token"
+
+# ID чата для отправки сообщений
+# Для беседы: 2000000000 + ID_беседы
+# Для группы: -ID_группы
+vkPeerId: "VK_Peer_ID"
+
+# Префикс для автоматических сообщений в VK
+# Будет отображаться первой строкой, затем пустая строка, затем сообщение
+vkAutoMessagePrefix: "🤖 Автоматическое уведомление:"
+
+# === ОБЩИЕ НАСТРОЙКИ ===
+# Идентификатор сервера (будет отображаться в сообщениях)
 serverId: "(ServerName)"
 
+# === СООБЩЕНИЯ ===
+# Сообщение при включении сервера
 serverEnable: "The Minecraft server has turned on! %serverId%"
+
+# Сообщение при выключении сервера
 serverDisable: "The Minecraft server is shutting down... %serverId%"
+
+# Сообщение когда игрок заходит на сервер
 playerJoin: "Player %player% has joined the game on %serverId%."
+
+# Сообщение когда игрок выходит с сервера
 playerQuit: "Player %player% has left the game from %serverId%."
