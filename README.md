@@ -2,6 +2,10 @@
 
 Плагин для Minecraft сервера, который отправляет уведомления в Telegram о событиях на сервере.
 
+![Version](https://img.shields.io/badge/версия-1.0.0-blue)
+![Spigot](https://img.shields.io/badge/Spigot-1.20+-orange)
+![License](https://img.shields.io/badge/лицензия-MIT-green)
+
 ## 📋 Функциональность
 
 - 🔔 Уведомления о запуске и выключении сервера
@@ -73,6 +77,10 @@ playerQuit: "Player %player% has left the game from %serverId%."
 - ✅ Обработка ошибок сети
 - ✅ Поддержка UTF-8
 - ✅ Совместимость с Bukkit/Spigot/Paper
+
+## 🐛 Найден баг?
+
+Сообщайте о проблемах и предложениях в [Issues](https://github.com/l1ratch/TelegramNotice/issues).
 
 ## 📄 Лицензия
 
