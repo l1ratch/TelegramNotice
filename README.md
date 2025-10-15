@@ -83,4 +83,4 @@ playerQuit: "Player %player% has left the game from %serverId%."
 Если вам нравится этот плагин, не забудьте поставить звезду на GitHub!
 
 ---
-**Создано с ❤️ для сообщества Minecraft.**
+**Создано с ❤️ для сообщества Minecraft**
