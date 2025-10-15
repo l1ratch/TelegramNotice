@@ -2,7 +2,7 @@
 
 Плагин для Minecraft сервера, который отправляет уведомления в Telegram о событиях на сервере.
 
-![Version](https://img.shields.io/badge/версия-1.0.0-blue)
+![Version](https://img.shields.io/badge/версия-2.0-blue)
 ![Spigot](https://img.shields.io/badge/Spigot-1.20+-orange)
 ![License](https://img.shields.io/badge/лицензия-MIT-green)
 
